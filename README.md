@@ -10,7 +10,7 @@ Thirty years building systems where a mistake is expensive: federal health, defe
 
 ### The map
 
-Enterprise AI is segmenting into five layers. Most people work in one or more of these. These are mine, with the code.
+Enterprise AI is segmenting into five layers. Control is the one I work on most, but it only works if the other four are there, so I work on those too.
 
 | Layer | The question it answers | What I've built |
 | :---- | :---- | :---- |
