@@ -1,6 +1,6 @@
 ## Wes Jackson
 
-I work on the control layer for enterprise AI agents, and on the layers underneath that make the controls work.
+Control for enterprise AI agents, and the layers underneath. Author, PTC & GAL specifications (proposed).
 
 Thirty years building systems where a mistake is expensive: federal health, defense, public health, finance. Currently technical lead for an AI specialist architecture team. I write specifications, build reference implementations, and ship the platform pieces that governed agents actually need.
 
